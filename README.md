@@ -19,7 +19,7 @@ Candidato: Gabriel Castelo
 
     IMPORTANTE: Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
 
-    **RESPOSTA**: [Fibonacci](https://github.com/GabrielCastelo-31/target-sistemas-analise/blob/main/fibonacci.py)
+    **RESPOSTA**: [Fibonacci](https://github.com/GabrielCastelo-31/target-sistemas-analise/blob/main/code/2-Fibonacci/fibonacci.py)
 
 4. Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa, na linguagem que desejar, que calcule e retorne:
 - O menor valor de faturamento ocorrido em um dia do mês;
@@ -32,7 +32,7 @@ Candidato: Gabriel Castelo
 
     b. Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
 
-    **RESPOSTA**: [Faturamento]()
+    **RESPOSTA**: [Faturamento](https://github.com/GabrielCastelo-31/target-sistemas-analise/blob/main/code/3-Json-data/solution.py)
 
 5. Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
 
