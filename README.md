@@ -11,15 +11,17 @@ Candidato: Gabriel Castelo
 
     Imprimir(SOMA);
 
-    Ao final do processamento, qual será o valor da variável SOMA? **Resposta: 91**
+    Ao final do processamento, qual será o valor da variável SOMA?
 
-2. Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores (exemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34...), escreva um programa na linguagem que desejar onde, informado um número, ele calcule a sequência de Fibonacci e retorne uma mensagem avisando se o número informado pertence ou não a sequência.
+   **RESPOSTA: 91**
+
+3. Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores (exemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34...), escreva um programa na linguagem que desejar onde, informado um número, ele calcule a sequência de Fibonacci e retorne uma mensagem avisando se o número informado pertence ou não a sequência.
 
     IMPORTANTE: Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
 
-    SOLUÇÃO: [Fibonacci](https://github.com/GabrielCastelo-31/target-sistemas-analise/blob/main/fibonacci.py)
+    **RESPOSTA**: [Fibonacci](https://github.com/GabrielCastelo-31/target-sistemas-analise/blob/main/fibonacci.py)
 
-3. Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa, na linguagem que desejar, que calcule e retorne:
+4. Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa, na linguagem que desejar, que calcule e retorne:
 - O menor valor de faturamento ocorrido em um dia do mês;
 - O maior valor de faturamento ocorrido em um dia do mês;
 - Número de dias no mês em que o valor de faturamento diário foi superior à média mensal.
@@ -30,7 +32,7 @@ Candidato: Gabriel Castelo
 
     b. Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
 
-    SOLUÇÃO: [Faturamento]()
+    **RESPOSTA**: [Faturamento]()
 
 5. Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
 
@@ -42,7 +44,7 @@ Candidato: Gabriel Castelo
 
     Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.
 
-    SOLUÇÃO: [Distribuidora]()
+     **RESPOSTA**: [Distribuidora]()
 
 6. Escreva um programa que inverta os caracteres de um string.
 
@@ -52,4 +54,4 @@ Candidato: Gabriel Castelo
 
     b. Evite usar funções prontas, como, por exemplo, reverse;
 
-    SOLUÇÃO: [Inverte String]()
+     **RESPOSTA**: [Inverte String]()
