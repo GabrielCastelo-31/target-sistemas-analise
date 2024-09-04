@@ -44,7 +44,7 @@ Candidato: Gabriel Castelo
 
     Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.
 
-     **RESPOSTA**: [Distribuidora]()
+     **RESPOSTA**: [Distribuidora](https://github.com/GabrielCastelo-31/target-sistemas-analise/blob/main/code/4-Estados/solution.py)
 
 6. Escreva um programa que inverta os caracteres de um string.
 
@@ -54,4 +54,4 @@ Candidato: Gabriel Castelo
 
     b. Evite usar funções prontas, como, por exemplo, reverse;
 
-     **RESPOSTA**: [Inverte String]()
+     **RESPOSTA**: [Inverte String](https://github.com/GabrielCastelo-31/target-sistemas-analise/blob/main/code/5-Reverse-String/solution.py)
