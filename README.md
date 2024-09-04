@@ -20,9 +20,9 @@ Candidato: Gabriel Castelo
     SOLUÇÃO: [Fibonacci](https://github.com/GabrielCastelo-31/target-sistemas-analise/blob/main/fibonacci.py)
 
 3. Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa, na linguagem que desejar, que calcule e retorne:
-• O menor valor de faturamento ocorrido em um dia do mês;
-• O maior valor de faturamento ocorrido em um dia do mês;
-• Número de dias no mês em que o valor de faturamento diário foi superior à média mensal.
+- O menor valor de faturamento ocorrido em um dia do mês;
+- O maior valor de faturamento ocorrido em um dia do mês;
+- Número de dias no mês em que o valor de faturamento diário foi superior à média mensal.
 
     IMPORTANTE:
 
@@ -30,9 +30,9 @@ Candidato: Gabriel Castelo
 
     b. Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
 
-    SOLUÇÃO: [Faturamento](code/3/main.py)
+    SOLUÇÃO: [Faturamento]()
 
-4. Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
+5. Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
 
    - SP – R$67.836,43
    - RJ – R$36.678,66
@@ -42,9 +42,9 @@ Candidato: Gabriel Castelo
 
     Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.
 
-    SOLUÇÃO: [Distribuidora](code/4/main.py)
+    SOLUÇÃO: [Distribuidora]()
 
-5. Escreva um programa que inverta os caracteres de um string.
+6. Escreva um programa que inverta os caracteres de um string.
 
     IMPORTANTE:
 
@@ -52,4 +52,4 @@ Candidato: Gabriel Castelo
 
     b. Evite usar funções prontas, como, por exemplo, reverse;
 
-    SOLUÇÃO: [Inverte String](code/5/main.cpp)
+    SOLUÇÃO: [Inverte String]()
